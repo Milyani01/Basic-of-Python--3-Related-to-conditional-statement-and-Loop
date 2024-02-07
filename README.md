@@ -20,3 +20,27 @@
      Adults (18-64): $12
 
      Seniors (65 and above): $7
+
+# Questions Related to For Loop
+
+1. Use a for loop to print numbers from 1 to 5.
+2. Calculate and print the sum of squares of numbers from 1 to 5 using a for loop.
+3. Write a program that takes a number as input and prints the first 5 multiples of that number using a for loop.
+4. Take a number as input and use a for loop to print the multiplication table for that number from 1 to 10.
+5. Develop a Python program that checks whether a given number is prime or not using a for loop.
+6. Create a Python program to find the largest element in a list using a for loop.
+7. Write a Python program to reverse a given string using a for loop.
+8. Develop a Python program that calculates the sum of all numbers from 1 to 100 using a for loop.
+9. Write a Python program to find the factorial of a number using a for loop
+
+# Questions Related to While Loop
+
+1. Write a program that prints numbers from 1 to 10 using a while loop.
+2. Create a program that asks the user to enter a number and then prints the multiplication table of that number using a while loop.
+3. Develop a program that calculates the factorial of a given number using a while loop.
+4. Write a program that prompts the user to enter a series of numbers until they enter a negative number. Then, the program should print the sum of all the positive numbers entered.
+5. Implement a simple guessing game where the program generates a random number between 1 and 100, and the user has to guess the number. The program should provide hints (higher/lower) until 
+   the user guesses the correct number, using a while loop.
+6. Create a program that prompts the user to enter a password. Keep asking for the password until the user enters the correct password "password123". Once the correct password is entered, 
+    print a success message.
+
