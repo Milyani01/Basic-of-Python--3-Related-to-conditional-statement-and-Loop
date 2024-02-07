@@ -1,6 +1,6 @@
 # Basic-of-Python--3-Related-to-conditional-statement-and-Loop
 
-# Conditional Expression
+# Questions Related to Conditional Expression 
 
 1. Write a program that takes a number as input and prints whether it's positive, negative, or zero.
 2. Create a program that takes two numbers as input and prints the larger one.
